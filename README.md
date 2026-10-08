@@ -1,4 +1,5 @@
-Walmart Sales Data Cleaning & Database Pipeline
+
+   Walmart Sales Data Cleaning & Database Pipeline
 
 An end-to-end data engineering project that takes raw Walmart sales data, cleans and standardises it with Python (Pandas), and loads it into both MySQL and PostgreSQL so it is ready for SQL analysis and reporting.
 
